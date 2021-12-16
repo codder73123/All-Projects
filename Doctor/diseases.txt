@@ -1,0 +1,271 @@
+some diseases names only
+
+Abscess
+Acute Radiation Sickness
+Alzheimer's disease
+Anthrax
+Appendicitis
+Allergy
+Arthritis
+Aseptic meningitis
+Asthma
+Astigmatism
+Atherosclerosis
+
+Bacterial meningitis
+Beriberi
+Black Death
+Black Fungus
+Botulism
+Breast cancer
+Bronchitis
+Brucellosis
+Bubonic plague
+Bunion
+Boil
+
+Campylobacter infection
+Cancer
+Candidiasis
+Carbon monoxide poisoning
+Coeliac disease
+Cerebral palsy
+Chagas disease
+Chickenpox
+Chlamydia
+Chlamydia trachomatis
+Cholera
+Chordoma
+Chorea
+Chronic fatigue syndrome
+Circadian rhythm sleep disorder
+Colitis
+Common cold
+Condyloma
+Congestive heart disease
+Coronary heart disease
+COVID-19
+Cowpox
+Crohn's Disease
+Coronavirus
+
+Dengue Fever
+Diabetes mellitus
+Diphtheria
+Dehydration
+Dysentery
+E
+Ear infection
+Ebola
+Encephalitis
+Emphysema
+Epilepsy
+Erectile dysfunction
+F
+Fibromyalgia
+Foodborne illness
+G
+Gangrene
+Gastroenteritis
+Genital herpes
+GERD
+Goitre
+Gonorrhea
+H
+Heart disease
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis D
+Hepatitis E
+Histiocytosis (childhood cancer)
+HIV
+Human papillomavirus
+Huntington's disease
+Hypermetropia
+Hyperopia
+Hyperthyroidism
+Hypothyroid
+Hypotonia
+I
+Impetigo
+Infertility
+Influenza
+Interstitial cystitis
+
+Iritis
+Iron-deficiency anemia
+Irritable bowel syndrome
+Ignious Syndrome
+Intestine ache
+Intestine Gas
+Intestine disease
+Upset Intestine
+J
+Jaundice
+K
+Keloids
+Kuru
+Kwashiorkor
+Kidney stone disease
+L
+Laryngitis
+Lead poisoning
+Legionellosis
+Leishmaniasis
+Leprosy
+Leptospirosis
+Listeriosis
+Leukemia
+Lice
+Loiasis
+Lung cancer
+Lupus erythematosus
+Lyme disease
+Lymphogranuloma venereum
+Lymphoma
+Limbtoosa
+M
+Mad cow disease
+Malaria
+Marburg fever
+Measles
+Melanoma
+Metastatic cancer
+Meniere's disease
+Meningitis
+Migraine
+Mononucleosis
+Multiple myeloma
+Multiple sclerosis
+Mumps
+Muscular dystrophy
+Myasthenia gravis
+Myelitis
+Myoclonus
+Myopia
+Myxedema
+Morquio Syndrome
+Mattticular syndrome
+Mononucleosis
+N
+Neoplasm
+Non-gonococcal urethritis
+Necrotizing Fasciitis
+Night blindness
+O
+Obesity
+Osteoarthritis
+Osteoporosis
+Otitis
+P
+Palindromic rheumatism
+Paratyphoid fever
+Parkinson's disease
+Pelvic inflammatory disease
+Peritonitis
+Periodontal disease
+Pertussis
+Phenylketonuria
+Plague
+Poliomyelitis
+Porphyria
+Progeria
+Prostatitis
+Psittacosis
+Psoriasis
+Pubic lice
+Pulmonary embolism
+Pilia
+pneumonia
+Q
+Q fever
+Ques fever
+R
+Rabies
+Repetitive strain injury
+Rheumatic fever
+Rheumatic heart
+Rheumatism
+Rheumatoid arthritis
+Rickets
+Rift Valley fever
+Rocky Mountain spotted fever
+Rubella
+S
+Salmonellosis
+Scabies
+Scarlet fever
+Sciatica
+Scleroderma
+Scrapie
+Scurvy
+Sepsis
+Septicemia
+SARS
+Shigellosis
+Shin splints
+Shingles
+Sickle-cell anemia
+Siderosis
+SIDS
+Silicosis
+Smallpox
+Stevens–Johnson syndrome
+Stomach flu
+Stomach ulcers
+Strabismus
+Strep throat
+Streptococcal infection
+Synovitis
+Syphilis
+Swine influenza
+Stomach Gas
+Stomach Ache
+stomach Disease
+Kids Stomach Ache
+Upset Stomach
+T
+Taeniasis
+Tay-Sachs disease
+Tennis elbow
+Teratoma
+Tetanus
+Thalassaemia
+Thrush
+Thymoma
+Tinnitus
+Tonsillitis
+Tooth decay
+Toxic shock syndrome
+Trichinosis
+Trichomoniasis
+Trisomy
+Tuberculosis
+Tularemia
+Tungiasis
+Typhoid fever
+Typhus
+Tumor
+U
+Ulcerative colitis
+Ulcers
+Uremia
+Urticaria
+Uveitis
+UTI'S
+V
+Varicella
+Varicose veins
+Vasovagal syncope
+Vitiligo
+Von Hippel-Lindau disease
+Viral fever
+Viral meningitis
+W
+Warkany syndrome
+Warts
+Watkins
+Y
+Yellow fever
+Yersiniosis
